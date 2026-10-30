@@ -1,6 +1,8 @@
 streamlit
-opencv-python-headless
-mediapipe
+numpy<2
+mediapipe==0.10.21
+opencv-contrib-python==4.10.0.84
 pandas
 streamlit-webrtc
 av
+
